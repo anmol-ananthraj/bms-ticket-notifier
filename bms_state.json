@@ -1,7 +1,71 @@
 {
-  "shows": {},
+  "shows": {
+    "PSPR|46435|20260328|LUXE PRIME": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "12:30 PM",
+      "date": "20260328",
+      "cat": "LUXE PRIME",
+      "price": "1500.00",
+      "status": "3"
+    },
+    "PSPR|46435|20260328|LUXE": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "12:30 PM",
+      "date": "20260328",
+      "cat": "LUXE",
+      "price": "1300.00",
+      "status": "3"
+    },
+    "PSPR|46443|20260328|LUXE PRIME": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "12:50 PM",
+      "date": "20260328",
+      "cat": "LUXE PRIME",
+      "price": "1500.00",
+      "status": "3"
+    },
+    "PSPR|46443|20260328|LUXE": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "12:50 PM",
+      "date": "20260328",
+      "cat": "LUXE",
+      "price": "1300.00",
+      "status": "3"
+    },
+    "PSPR|46436|20260328|LUXE PRIME": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "05:15 PM",
+      "date": "20260328",
+      "cat": "LUXE PRIME",
+      "price": "1500.00",
+      "status": "2"
+    },
+    "PSPR|46436|20260328|LUXE": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "05:15 PM",
+      "date": "20260328",
+      "cat": "LUXE",
+      "price": "1300.00",
+      "status": "3"
+    },
+    "PSPR|46444|20260328|LUXE PRIME": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "05:35 PM",
+      "date": "20260328",
+      "cat": "LUXE PRIME",
+      "price": "1500.00",
+      "status": "3"
+    },
+    "PSPR|46444|20260328|LUXE": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "05:35 PM",
+      "date": "20260328",
+      "cat": "LUXE",
+      "price": "1300.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260325": "AVAILABLE",
     "20260326": "AVAILABLE",
     "20260327": "AVAILABLE",
     "20260328": "BOOKABLE",
